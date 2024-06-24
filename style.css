@@ -1,0 +1,365 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+.hedderHelper{
+
+background-color: whitesmoke;
+border: solid  whitesmoke  10px;
+
+}
+.finalHeadr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+dropbtn {
+    width: 40%;
+   font-size: medium;
+    color: white;
+    /* padding: 16px;
+    font-size: 16px; */
+
+    border: none;
+  }
+  
+ 
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+ 
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+
+  .dropdown-content a:hover {background-color: #ddd;
+text-decoration: dashed;}
+  
+ 
+  .dropdown:hover .dropdown-content {display: block;
+  
+}
+  
+ 
+
+
+.finalHeadr li:hover{
+    border: none;
+    background-color:white;
+    color: red;
+  
+
+}
+.finalHeadr li button:hover{
+    border: none;
+    background-color:white;
+  
+    text-decoration: underline solid red;
+
+}
+
+.finalHeadr li text:hover{
+    border: none;
+    background-color:white;
+  
+    text-decoration: underline solid red;
+
+}
+.finalHeadr li i:hover{
+    border: none;
+    background-color:white;
+  
+    text-decoration: underline solid red;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.midSectionB1{
+/* padding-left: %; */
+  text-align: left;
+  justify-content: center;
+  font-size: medium;
+  padding-left: 12%;
+}
+.qutationDiv{
+    display: flex;
+}
+
+.qutationDiv2{
+    display: flex;
+}
+.finalHeadr{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mainPreFooter2Div{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+  }
+
+  .pics{
+    display: flex;
+    align-items: center;
+  }
+.pic1int1{
+display: flex;
+align-items: center;
+transition: background-color 0.3s ease;
+
+
+}
+.pic1int1 .button:hover{
+    background-color: white;
+    color: black;
+
+}
+
+.pic1int1{
+display: flex;
+align-items: center;
+transition: background-color 0.3s ease;
+
+
+}
+.pic1int1 .button:hover{
+    background-color: white;
+    color: black;
+
+}
+.pic2int1{
+    display: flex;
+    align-items: center;
+transition: background-color 0.3s ease;
+
+}
+.pic2int1 .button:hover{
+    background-color: white;
+    color: black;
+
+}
+.pic3int1{
+    display: flex;
+    align-items: center;
+transition: background-color 0.3s ease;
+
+}
+.pic3int1 .button:hover{
+    background-color: white;
+    color: black;
+
+}
+
+.userDiv{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6%;
+}
+
+.userDiv,.userImg{
+   
+}
+
+.youMayAlsoLikeDiv{
+    display: flex;
+    justify-content: center;
+}
+
+.finalPics{
+    padding-left: 15%;
+    width: 69%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.finalPics img{
+  width: 25%;
+}
+
+.midSection{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.midSectionA{
+ 
+    text-align: center;
+    justify-content: center;
+}
+
+.pics img{
+width: fit-content;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.preFooterMainDiv
+{
+    background-color: white;
+    display: flex;
+    align-items: center;
+     margin-bottom: 0%;
+     
+}
+ .checkOutRangeOfSamllGroups,.hifin,.prefinalPreFooter{
+    text-align: center;
+    font-size: smaller;
+    justify-content: center;
+
+}
+.finalPreFooter{
+    color: white;
+}
+
+.fbA{
+    transition: color 0.3s ease;
+}
+.preFooterMainDiv,.fbA:hover {
+    fill: color(srgb red green rgb(0, 0, 255));
+}
+
+
+.mainFooterDiv{
+  
+    background-color: black;
+    /* border: 1px solid yellow; */
+  
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    padding-left: 25%;
+
+    
+    
+}
+
+
+.BimageContiner{
+   
+    width: fit-content;
+    height: 4%;
+
+}
+
+.paragraphContiner{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 8px;
+     margin: 2%;
+ /*  margin-left:25%; */
+}
+.paragraphContiner a:hover{
+    text-decoration: none;
+}
+
+
+
+.imgContiner{
+    color: white;
+     display: flex;
+    align-items: center;
+    padding-inline-end: 30%;
+    font-size: 2rem;
+   
+   /* justify-content: center; */
+   }
+
+   .imgContiner a{
+    color: white;
+    margin: 0 5px;
+   }
